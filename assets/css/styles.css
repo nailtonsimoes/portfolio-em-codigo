@@ -336,19 +336,39 @@ img {
 }
 
 .skills__html {
-  width: 95%;
+  width: 75%;
 }
 
 .skills__css {
-  width: 85%;
+  width: 50%;
 }
 
 .skills__js {
+  width: 45%;
+}
+
+.skills__bt {
   width: 65%;
 }
 
-.skills__ux {
-  width: 85%;
+.skills__angular {
+  width: 55%;
+}
+
+.skills__tp {
+  width: 30%;
+}
+
+.skills__c {
+  width: 60%;
+}
+
+.skills__Cc {
+  width: 15%;
+}
+
+.skills__py {
+  width: 42%;
 }
 
 .skills__img {
